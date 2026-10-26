@@ -1,0 +1,11 @@
+# A simple user profile configuration
+name: Alex Doe
+age: 30
+is_active: true
+skills:
+  - Python
+  - Docker
+  - YAML
+address:
+  city: Mumbai
+  zipcode: 400001
